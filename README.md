@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariblack17 !
-- 👀 I’m interested in game development :)
-- 🌱 I’m currently learning c++, risc-v, and sql
+- 👀 I’m interested in game development and cybersecurity :)
+- 🌱 I’m currently working with c, c++, and python
 - 💞️ I’m looking to collaborate on smaller projects to build my portfolio
 - 📫 How to reach me: send an email my way (ariannahblack@gmail.com) <3
 
